@@ -1,0 +1,36 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+#foto {}
+
+#santinho {
+    height: 600px;
+    flex: 0 0 400px;
+    display: flex;
+    flex-flow: column;
+    overflow: hidden;
+}
+
+h1 {
+    margin: 0px;
+    padding: 0px;
+}
+
+#cargo {}
+
+#slogan {}
+
+#final {}
+
+#numero {}
+
+#partido {}
